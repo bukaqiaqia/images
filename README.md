@@ -1,2 +1,2 @@
 # images
-upload image
+where to host image
